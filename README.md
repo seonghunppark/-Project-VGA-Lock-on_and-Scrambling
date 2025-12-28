@@ -64,7 +64,7 @@
 
 ---
 
-![image.png](attachment:0088c4f2-5b79-46f8-85a0-0e65ac438270:image.png)
+![image.png](https://github.com/seonghunppark/-Project-VGA-Lock-on_and-Scrambling/blob/4f248c000d9daa97ac4ffaebaaa7c329bc145bc1/Total_VGA.png)
 
 ![image.png](https://github.com/seonghunppark/-Project-VGA-Lock-on_and-Scrambling/blob/86623a4465f08bbc4905aae2793693d575047b29/Master_VGA_TOPGUN.png)
 
