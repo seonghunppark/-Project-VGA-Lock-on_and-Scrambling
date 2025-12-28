@@ -4,7 +4,7 @@
 
 PPT link : [PPT 바로보기](https://www.canva.com/design/DAG6n7-keBM/FSBcbmekwrhovV0QimbONw/view?utm_content=DAG6n7-keBM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he533561dda)
 
-발표영상은 슬라이드 마지막에 있습니다.
+!발표영상은 슬라이드 마지막에 있습니다.
 
 ## 🔹프로젝트 개요
 
