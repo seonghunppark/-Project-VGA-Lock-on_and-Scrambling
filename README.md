@@ -1,6 +1,11 @@
 # VGA PROJECT
 
 영상처리 프로젝트 : FPGA 이용한 실시간 동적 표적 추적 및 LFSR 기반 보안 영상 통신 시스템 구현
+
+PPT link : [PPT 바로보기](https://www.canva.com/design/DAG6n7-keBM/FSBcbmekwrhovV0QimbONw/view?utm_content=DAG6n7-keBM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he533561dda)
+
+발표영상은 슬라이드 마지막에 있습니다.
+
 ## 🔹프로젝트 개요
 
 
